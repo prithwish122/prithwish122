@@ -2,6 +2,12 @@
 - 👀 I’m a junior fullstack developer,ui/ux designer.
 
 Strong in design and integration with inituitive  problem solving skills.Proficient in  JAVA,C,C++,PYTHON,HTML,JAVA SCRIPT and CSS. Passionate about implementing   and launching new projects.
+
+
+
+
+![image](https://user-images.githubusercontent.com/116712239/230794263-e25379ec-dc31-4669-b699-598660aeb5f0.png)
+
 - 🌱 I’m currently pursuing computer science and engineering from Sister Nivedia University
 - 📫 How to reach me....instagram--->@p.r.i.t.h.w.i.s.h
 
