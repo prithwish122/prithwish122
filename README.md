@@ -6,7 +6,10 @@ Strong in design and integration with inituitive  problem solving skills.Profici
 
 
 
-![image](https://user-images.githubusercontent.com/116712239/230794263-e25379ec-dc31-4669-b699-598660aeb5f0.png)
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 
 - 🌱 I’m currently pursuing computer science and engineering from Sister Nivedia University
 - 📫 How to reach me....instagram--->@p.r.i.t.h.w.i.s.h
