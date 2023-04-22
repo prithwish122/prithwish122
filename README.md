@@ -1,7 +1,7 @@
 ![MasterHead](https://media.licdn.com/dms/image/D5616AQG_Wm_Dwl9IiQ/profile-displaybackgroundimage-shrink_350_1400/0/1681150709850?e=1687392000&v=beta&t=eSP4vOV0QqafdvSmpbJd7z241vfwpPww9IxODUJ0nc0)
 <h1 align="center">Hi 👋, I'm Prithwish Chatterjee</h1>
 <h3 align="center">A junior fullstack developer</h3>
-<img align="center" alt="Coding" width="400" src="https://undo.io/assets/thumbnail/204/840/677/webp/None/80/">
+<img align="center" alt="Coding" width="200" src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prithwish122&label=Profile%20views&color=0e75b6&style=flat" alt="prithwish122" /> </p>
 
@@ -16,9 +16,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/prithwish_122" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prithwish_122" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/prithwish-chatterjee-032313253/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prithwish-chatterjee-032313253/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/sunny.prithwish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/sunny.prithwish" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/p.r.i.t.h.w.i.s.h/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/p.r.i.t.h.w.i.s.h/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/prithwish-chatterjee-032313253/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prithwish-chatterjee-032313253/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/sunny.prithwish/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/sunny.prithwish" height="30" width="40" /></a>
+<a href="https://www.instagram.com/p.r.i.t.h.w.i.s.h/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/p.r.i.t.h.w.i.s.h/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
