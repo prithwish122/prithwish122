@@ -1,5 +1,7 @@
+![MasterHead](https://media.licdn.com/dms/image/D5616AQG_Wm_Dwl9IiQ/profile-displaybackgroundimage-shrink_350_1400/0/1681150709850?e=1687392000&v=beta&t=eSP4vOV0QqafdvSmpbJd7z241vfwpPww9IxODUJ0nc0)
 <h1 align="center">Hi 👋, I'm Prithwish Chatterjee</h1>
 <h3 align="center">A junior fullstack developer</h3>
+<img align="center" alt="Coding" width="400" src="https://undo.io/assets/thumbnail/204/840/677/webp/None/80/">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prithwish122&label=Profile%20views&color=0e75b6&style=flat" alt="prithwish122" /> </p>
 
