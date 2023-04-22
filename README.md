@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/D5616AQG_Wm_Dwl9IiQ/profile-displaybackgroundimage-shrink_350_1400/0/1681150709850?e=1687392000&v=beta&t=eSP4vOV0QqafdvSmpbJd7z241vfwpPww9IxODUJ0nc0)
+![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="center">Hi 👋, I'm Prithwish Chatterjee</h1>
 <h3 align="center">A junior fullstack developer</h3>
 <img align="center" alt="Coding" width="200" src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif">
