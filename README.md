@@ -1,9 +1,9 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="center">Hi 👋, I'm Prithwish Chatterjee</h1>
-<h3 align="center">A junior fullstack developer</h3>
+<h3 align="center">A junior fullstack developer. I am passionate about leveraging my technical skills and knowledge to contribute to the world of technology. I am also proficient in UI/UX and have created low fidelity prototypes of many apps and websites. My strong analytical and problem-solving abilities, coupled with my keen eye for detail, allow me to develop innovative solutions to complex technical challenges.
+</h3>
 <img align="center" alt="Coding" width="200" src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prithwish122&label=Profile%20views&color=0e75b6&style=flat" alt="prithwish122" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prithwish122" alt="prithwish122" /></a> </p>
 
@@ -29,3 +29,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prithwish122&show_icons=true&locale=en" alt="prithwish122" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prithwish122&" alt="prithwish122" /></p>
+
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=prithwish122&label=Profile%20views&color=0e75b6&style=flat" alt="prithwish122" /> </p>
