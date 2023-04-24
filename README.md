@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prithwish122" alt="prithwish122" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/prithwish_122" target="blank"><img src="https://img.shields.io/twitter/follow/prithwish_122?logo=twitter&style=for-the-badge" alt="prithwish_122" /></a> </p>
+
 
 - 🌱 I’m currently **pursuing B.TECH CSE from SISTER NIVEDITA UNIVERSITY.**
 
