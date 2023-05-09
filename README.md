@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prithwish122" alt="prithwish122" /></a> </p>
                                                       
                                                                                      
-                          
+                                    
 - 🌱 I’m currently **pursuing B.TECH CSE from SISTER NIVEDITA UNIVERSITY.**           
 
 - 📫 How to reach me **prithwishchatterjee1277@gmail.com**
