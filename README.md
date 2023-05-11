@@ -3,7 +3,7 @@
 <h3 align="center">A junior fullstack developer. I am passionate about leveraging my technical skills and knowledge to contribute to the world of technology. I am also proficient in UI/UX and have created low fidelity prototypes of many apps and websites. My strong analytical and problem-solving abilities, coupled with my keen eye for detail, allow me to develop innovative solutions to complex technical challenges.
 </h3>
 <img align="center" alt="Coding" width="200" src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif">
-
+       
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prithwish122" alt="prithwish122" /></a> </p>
                                                       
