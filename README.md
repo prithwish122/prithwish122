@@ -12,7 +12,7 @@
 - 🌱 I’m currently **pursuing B.TECH CSE from SISTER NIVEDITA UNIVERSITY.**           
 
 - 📫 How to reach me **prithwishchatterjee1277@gmail.com**
-
+            
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/prithwish_122" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prithwish_122" height="30" width="40" /></a>
