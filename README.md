@@ -10,7 +10,7 @@
                                                                                                                                                          
                                                                                                             
 - 🌱 I’m currently **pursuing B.TECH CSE from SISTER NIVEDITA UNIVERSITY.**                                   
-
+   
 - 📫 How to reach me **prithwishchatterjee1277@gmail.com**   
             
 <h3 align="left">Connect with me:</h3>
