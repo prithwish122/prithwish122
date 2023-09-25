@@ -5,7 +5,7 @@
 <img align="center" alt="Coding" width="200" src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif">
              
                      
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prithwish122" alt="prithwish122" /></a> </p>
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prithwish122" alt="prithwish122" /></a> </p>-->
                                                                          
                                                                                                                                                                                     
                                                                                                                                
