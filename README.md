@@ -1,6 +1,6 @@
   ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="center">Hi 👋, I'm Prithwish Chatterjee</h1>
-<h3 align="center">A junior fullstack developer. I am passionate about leveraging my technical skills and knowledge to contribute to the world of technology. I am also proficient in UI/UX and have created low fidelity prototypes of many apps and websites. My strong analytical and problem-solving abilities, coupled with my keen eye for detail, allow me to develop innovative solutions to complex technical challenges.
+<h3 align="center">a final-year Computer Science and Engineering student and Full Stack Blockchain Developer with a strong record of building hackathon-winning products and scalable Web3 applications. I’ve won 10+ blockchain hackathons and developed 15+ successful projects across EVM and non-EVM chains
 </h3>
 <img align="center" alt="Coding" width="200" src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif">
              
